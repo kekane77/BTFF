@@ -1,0 +1,2112 @@
+fileFormatVersion: 2
+guid: f7907f892830f2b4eab44786afd187ce
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_0
+    21300002: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_1
+    21300004: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_2
+    21300006: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_3
+    21300008: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_4
+    21300010: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_5
+    21300012: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_6
+    21300014: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_7
+    21300016: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_8
+    21300018: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_9
+    21300020: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_10
+    21300022: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_11
+    21300024: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_12
+    21300026: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_13
+    21300028: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_14
+    21300030: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_15
+    21300032: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_16
+    21300034: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_17
+    21300036: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_18
+    21300038: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_19
+    21300040: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_20
+    21300042: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_21
+    21300044: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_22
+    21300046: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_23
+    21300048: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_24
+    21300050: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_25
+    21300052: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_26
+    21300054: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_27
+    21300056: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_28
+    21300058: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_29
+    21300060: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_30
+    21300062: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_31
+    21300064: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_32
+    21300066: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_33
+    21300068: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_34
+    21300070: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_35
+    21300072: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_36
+    21300074: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_37
+    21300076: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_38
+    21300078: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_39
+    21300080: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_40
+    21300082: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_41
+    21300084: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_42
+    21300086: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_43
+    21300088: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_44
+    21300090: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_45
+    21300092: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_46
+    21300094: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_47
+    21300096: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_48
+    21300098: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_49
+    21300100: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_50
+    21300102: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_51
+    21300104: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_52
+    21300106: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_53
+    21300108: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_54
+    21300110: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_55
+    21300112: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_56
+    21300114: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_57
+    21300116: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_58
+    21300118: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_59
+    21300120: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_60
+    21300122: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_61
+    21300124: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_62
+    21300126: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_63
+    21300128: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_64
+    21300130: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_65
+    21300132: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_66
+    21300134: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_67
+    21300136: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_68
+    21300138: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_69
+    21300140: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_70
+    21300142: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_71
+    21300144: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_72
+    21300146: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_73
+    21300148: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_74
+    21300150: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_75
+    21300152: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_76
+    21300154: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_77
+    21300156: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_78
+    21300158: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_79
+    21300160: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_80
+    21300162: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_81
+    21300164: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_82
+    21300166: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_83
+    21300168: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_84
+    21300170: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_85
+    21300172: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_86
+    21300174: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_87
+    21300176: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_88
+    21300178: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_89
+    21300180: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_90
+    21300182: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_91
+    21300184: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_92
+    21300186: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_93
+    21300188: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_94
+    21300190: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_95
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cf1642ad8ef8d4fb914bed5e81d31b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4061533b7a28c0f44a53ca222042b9c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3171cda418ed5c546b9363e5ebb9a9e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 338
+        width: 31
+        height: 48
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 1, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86aacd5c726c2f46856c44e8cf9411c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 338
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bd427d479663134588b775e673c4b4e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cead81fb612a8bf4b9b7bff71d8188df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc25dc2237c948745a3a8bde0e69b132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e97a3ad9a095048a94f92113a454df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a2e646650983f43a578820cfc30c3a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ef0a75b6b1de0c49aec094f9e052795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12a84107511c23498419196684fbc1b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 337.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dee8ce3bce48de446a70689a63a3c489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad2bed1ab87d3541883e45c3ea47fce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e200f2b7bcb22f047a25d06851420d9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb2dba41f8debb49a16afb9eba187fa
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8462b9e1206f1b54789dcb9758ba94fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448152f36f4a13f49b238cae6289b704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca11016331128d54c941ec4791a44ed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a5927872153e3468aa858b692b56d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2d47643bb0c15428bad9cb0369d5b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88ff201edfff144fa230680626b5e49
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0c244a0f08e76b4593c31e02fd74e22
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da2f463f607d5941bf9ed5658fb03a9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 289.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b599979b73e229e4e96d718f26fff437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b8432fef3352e43999fc97e93651a0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1517eb8e1a6f544ad39c0d8662577c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0952f056f95852c4483ffeaddcb01249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04dc8623900c3c44b6a56d93b25fe80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2de3647d38710154c803949a4b5f6584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d21da7cef03df4ea46c85cf33b2771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2446dda26e8a204591a0b47f2cc67b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e0648f928eda9499a9ba1ebd5dce2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b3849bae23b014a94f16f56c07c669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f94fda5ae823b4583a7c144866732e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a8e96d01fd90b48821de479f691d69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 241.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227eabb22bccea14b9cfade72a1d7610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b113974962d6a49bd6fb52128cfee7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 331127e44b069fc4eb67ca5d6578f78a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13b55ff356eb5e419ee6a2191adad41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 194
+        width: 31
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eeec25c32442d40a28216f077fb601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0614cabf6ad4b2f499489f0ba34e7bd8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 194
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e611be45f6bbf14bb28bc6cbdc587ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3298456b8759f49448c84b591f6bc739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520ad7e590fb8db41b8242f567915c10
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119ba119393b6940893a97803676857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 153f7c67e17f0204abc482a1310ae70d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9085e2d163c50f54b937ee02ed04ad9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 193.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23561923a2fe6114fa553d75aa36ddc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae4f9a8aebcac3408d089fda5e9eb3c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154db30f97a85b64a8bb84ead3a35c9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f3bcb941ad616429228983380a07cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd772a618e0f32c48955744a475c4483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b2bbce3ccf36543a9fb6b9ed1be37c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0be78543b9fc434f99a2574db9ddb9b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd78ce454a81b541b33253b53b72285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cbd006220d71684fb247f5e56b678c3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b6e56dd789e1f24d9b44d0d31c8fa99
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119cfcf127123c2499d711299c83a54d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adc3f1729387bb14c8a58aac4bdfe750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 145.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af04c56b5d5e3ec41a88b6687dc15f54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45302f174d525a4e9310b8661504f46
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d61de8329adf8d459cb515ac9937ce8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22027e8e17b0eb4fa7910f0a7b81581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bac264ae9b96264eb98ead1df290f98
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 120afc563933fd047a38fe68eca92684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c764deae2a6fa04bbe65941803b0d68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcca4b6a9528b24ba20162390a77ebb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d9b3dcbd294d948b9723b4d8196083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfba314abe0a8d94db7e52adde44761d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ae187822f59924dbe919f5f5db7efb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4d60bcab7646c47a82a5e23f824b4f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 97.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf96418016e831d47924127c4c919852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a203ab50d96ffe948bdf53515534ba94
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835f5c97cb3dbab4ab3078c7e1cb8b23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc0001b82545714caa3a9534b54915f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d419999537cc62c4abe6cff48f077e51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6404b1babc2fd184498b59f2fa8ff255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5857697449eb264b8cb932f1b61126c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67af906e1f732e14098c61862ec731d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a65d342a109a5e45b8f33529e6311cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72275da247b7cfd40bc93548ad58bb6c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afe0341e778b574e83066f6dd12809b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d10ce35463bff44a5d783cd17a6289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 49.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b4d9a6ba8441741bf9544d68927ba5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02ce122875ff3494c9e95ac30c205e8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae22952486be1e54fbf0471274bffcfd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf947a93006e9c40a30c447f2a1b8bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de05e7e3ffa8cc42b41c431ee69d1df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb71853f35a668b418fce8c2aef003ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74a481bc8bcb1a744b0bcfab4b073302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfae90db78f3b1a4dbad1829d866a98c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee89fcecd664e14ab2bca3f302c46f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ca8d0edfefb245ab967e3ba768b18
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c119af078e999f5408a5fcc6a0aa12d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c21b4e3ffff725489f4cf5b873402fd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ai_s_chronicles_character_spritesheet_1_by_xlady_aix-d7ht5dg_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1.75
+        width: 32.333332
+        height: 48.25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c70210a0d4ff14f8ce531f7544a76c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: af6e4dc017fd60345a328eb123788c5f
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
