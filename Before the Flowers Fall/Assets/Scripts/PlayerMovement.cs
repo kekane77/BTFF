@@ -2,6 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+/// <summary>
+/// The PlayerMovement class.
+/// Contains all methods for player movement and player animation.
+/// </summary>
+/// <remarks>
+/// This class can adjust speed, move an object manually in a 2D plane and animate 
+/// the object if animation and animation controller objects are also attached.
+/// </remarks>
 public class PlayerMovement : MonoBehaviour {
 
     [SerializeField]
